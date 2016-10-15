@@ -1,7 +1,5 @@
 /*
-* Author: Christian Wilson
-* Course: COP2551
-* Homework #: 5
+* 
 * Title : Determines amount of prime numbers
 * Due Date: 3/6/2016
 *
@@ -21,7 +19,7 @@ public class Homework5 {
     public static void main(String[] args) {
         
         //Displays user name and assignment
-        System.out.format("Christian Wilson%nHomework 5%n");
+        System.out.format("Homework 5%n");
         
         //Initializing program
         Scanner input = new Scanner(System.in); 
