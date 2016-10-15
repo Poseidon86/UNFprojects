@@ -1,7 +1,5 @@
 /*
-* Author: Christian Wilson
-* Course: COP2551
-* Project #: 2
+* 
 * Title : Modularized Unit Conversion Tool
 * Due Date: 2/21/2016
 *
@@ -29,7 +27,7 @@ import java.util.Scanner;
         
         
         //Displays user name and project type       
-        System.out.format("Christian Wilson%nProject 2 - Modularized Unit Conversion Tool%n");
+        System.out.format("Project 2 - Modularized Unit Conversion Tool%n");
        
         //Initializing program
         input = new Scanner(System.in);
