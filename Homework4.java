@@ -1,7 +1,5 @@
 /*
-* Author: Christian Wilson
-* Course: COP2551
-* Homework #: 4
+* 
 * Title : Determines Leap Year
 * Due Date: 2/14/2016
 *
@@ -20,7 +18,7 @@ public class Homework4 {
     public static void main(String[] args) 
     {
        //Displays user name and assignment
-        System.out.format("Christian Wilson%nHomework 4%n");
+        System.out.format("Homework 4%n");
         
        //Initilizing program
         Scanner input = new Scanner(System.in);
