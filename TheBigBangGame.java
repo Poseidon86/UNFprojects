@@ -1,7 +1,5 @@
 /*
-* Au/thor: Christian Wilson
-* Course: COP2551
-* Project #: 3
+* 
 * Title : Rock-Paper-Scissors-Lizard-Spock
 * Due Date: 3/27/2016
 *
