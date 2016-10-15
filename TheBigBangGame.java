@@ -16,7 +16,7 @@ public class TheBigBangGame {
     
     public static void main(String[] args) {
         
-    System.out.format("Christian Wilson%nRock-Paper-Scissors-Lizard-Spock%n");
+    System.out.format("Rock-Paper-Scissors-Lizard-Spock%n");
     
     TheBigBangGame game = new TheBigBangGame(); 
     game.execute(args);
