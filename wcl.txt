@@ -1,0 +1,77 @@
+#!/bin/bash
+
+echo "Welcome to the Windows Command Line Simulator!"
+printf "\n"
+echo  "Enter you commands below"
+printf "\n"
+
+while true
+do
+	read -p "wcl> " COMMAND_A COMMAND_B COMMAND_C
+
+case $COMMAND_A in
+
+dir)
+		ls $COMMAND_B
+		printf "\n\n"   
+		printf "Using bash command ls"
+		printf "\n" 
+		;;
+copy)
+	if [[ -z "$COMMAND_B" || -z "$COMMAND_C" ]]
+then
+		printf "\nUsage: $COMMAND_A\n"
+	else
+		printf "\nUsing bash command: cp $COMMAND_B $COMMAND_C\n"
+		cp $COMMAND_B $COMMAND_C
+		printf "\ndone\n"
+	fi
+		;;
+del)
+	if [[ -z "$COMMAND_B" ]]
+then
+		printf "\nUsage: $COMMAND_A\n"
+	else
+		printf "\nUsing bash command: rm $COMMAND_B\n"
+		rm $COMMAND_B
+		printf "\ndone\n"
+	fi
+		;;
+move)
+	if [[ -z "$COMMAND_B" || -z "$COMMAND_C" ]]
+then
+                printf "\nUsage: $COMMAND_A\n"
+        else
+                printf "\nUsing bash command: mv $COMMAND_B $COMMAND_C\n"
+                mv $COMMAND_B $COMMAND_C
+                printf "\ndone\n"
+        fi
+                ;;
+rename)
+	if [[ -z "$COMMAND_B" || -z "$COMMAND_C" ]]
+then
+                printf "\nUsage: $COMMAND_A\n"
+        else
+                printf "\nUsing bash command: cp $COMMAND_B $COMMAND_C\n"
+                mv $COMMAND_B $COMMAND_C
+                printf "\ndone\n"
+        fi
+                ;;
+ipconfig)
+		ifconfig 
+                printf "\n\n"
+                printf "Using bash command ifconfig"
+                printf "\n"
+                ;;
+		
+exit)
+		printf "\n[Exiting WCL...]\n"
+		exit
+		;;
+*)
+                printf "\nERROR: Unrecongnized command\n"
+                ;;
+
+esac
+done
+	
