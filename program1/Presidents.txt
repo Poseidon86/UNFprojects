@@ -1,0 +1,44 @@
+6 John Adams               4 National Republican Massachusetts
+23Benjamin Harrison        4 Republican          Indiana      
+24Grover Cleveland         4 Democrat            New York     
+25William McKinley         4 Republican          Ohio         
+7 Andrew Jackson           8 Democrat            Tennessee    
+8 Martin Van_Buren         4 Democrat            New York     
+9 William Harrison       a 1 Whig                Ohio          
+10John Tyler               1 Whig                Virginia     
+11John Polk                4 Democrat            Tennessee     
+14Franklin Pierce          4 Democrat            New Hampshire 
+17Andrew Johnson           4 Republican          Tennessee    
+42Bill Clinton             8 Democrat            Arkansas      
+43George Bush              8 Republican          Texas        
+44Barrack Obama            8 Democrat            Illinois     
+18Ulysses Grant            8 Republican          Illinois     
+19Rutherford Hayes         4 Republican          Ohio         
+20James Garfield         a 1 Republican          Ohio         
+21Chester Arthur           4 Republican          New York     
+22Grover Cleveland         4 Democrat            New York     
+26Theodore Roosevelt       8 Republican          New York     
+27Willian Howard Taft      4 Republican          Ohio         
+28Woodrew Wilson           8 Democrat            New Jersey   
+29Warren Harding         a 3 Republican          Ohio         
+30Calvin Coolidge          7 Republican          Massachusetts
+31Herbert Hoover           4 Republican          California   
+32Franklin Roosevelt     a 12Democrat            New York     
+33Harry Truman             8 Democrat            Missouri     
+12Zachary Taylor         a 1 Whig                Louisiana    
+13Millard Fillmore         4 Whig                New York     
+34Dwight Eisenhower        8 Republican          Kansas       
+35John Kennedy             3 Democrat            Massachusetts
+36Lyndon Johnson           7 Democrat            Texas        
+15James Buchanan           4 Democrat            Pennsylvania 
+16Abraham Lincoln        a 4 Republican          Illinois     
+37Richard Nixon          b 5 Republican          California   
+38Gerald Ford            c 4 Republican          Michigan     
+39Jimmy Carter             4 Democrat            Georgia      
+1 George Washington        8 Federalist          Virginia     
+2 John Adams               4 Federalist          Massachusetts
+3 Thomas Jefferson         8 Demo-Republican     Virginia     
+4 James Madison            8 Demo-Republican     Virginia     
+5 James Monroe             8 Demo-Republican     Virginia     
+40Ronald Regan             8 Republican          California   
+41George Bush              4 Republican          Texas        
